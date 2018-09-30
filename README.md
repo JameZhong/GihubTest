@@ -12,7 +12,11 @@ zjffenzjkdjlkdmkrjgkjrlkg
 
 继续分支的合并练习操作实践测试
 
+
 在zjf 1分支新添文件 开始冲突测试,master另外一种冲突情况
+
+在zjf 分支新添文件 2开始冲突测试,新增另外一种情况
+
 
 
 
