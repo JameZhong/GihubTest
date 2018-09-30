@@ -22,7 +22,7 @@ zjffenzjkdjlkdmkrjgkjrlkg
 zjf分支新增修改，测试不快速合并分支的情况
 
 
-
+zjf分支上使用stash暂存操作练习............
 
 master分支新增修改，练习冲突发生情况
 
