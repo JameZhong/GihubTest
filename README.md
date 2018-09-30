@@ -1,2 +1,4 @@
-zjf分支本地添加新东西到README.md文件中
-在远程新增加了东西到该文件
+# GihubTest
+github 使用练习
+对Feature分支做不同于master分支的修改
+kdkfjkgjlfjfjgkjekcnvo
